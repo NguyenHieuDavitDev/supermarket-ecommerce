@@ -2,7 +2,7 @@
 
 ## Giới thiệu dự án
 
-Commerce là một dự án thương mại điện tử được xây dựng bằng Django, tạo ra một website bán hàng chuyên nghiệp. Khách hàng mua sắm online và admin quản lý mọi thứ từ sản phẩm, đơn hàng đến nhân viên. Với giao diện thân thiện và tính năng đa dạng, đây là một dự án tuyệt vời để học cách xây dựng website bán hàng bằng Django.
+Commerce là một dự án thương mại điện tử được xây dựng bằng Django, tạo ra một website bán hàng chuyên nghiệp. Khách hàng mua sắm online và admin quản lý mọi thứ từ sản phẩm, đơn hàng đến nhân viên. Với giao diện thân thiện với người dùng
 
 Dự án có các tính năng chính:
 - **Khách hàng**: Đăng ký, đăng nhập, xem sản phẩm, thêm vào giỏ hàng, thanh toán, xem lịch sử đơn, viết bình luận và đánh giá sản phẩm.
